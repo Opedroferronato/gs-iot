@@ -95,4 +95,4 @@ ProjetoGS/
 
 ## Observação
 
-Link do vídeo - https://drive.google.com/file/d/1khoEekxJeDBErNbC6aXY994etFQYp2Zj/view?usp=drive_link
+Link do vídeo - https://drive.google.com/drive/folders/1sz2Fv-qHMrdxIV0thayYdYtgwwMYjZIG?usp=sharing
