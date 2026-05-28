@@ -85,12 +85,14 @@ ProjetoGS/
 
 ## Integrantes
 
-* Pedro Henrique Ferronato
-* Nome Integrante 2
-* Nome Integrante 3
+* Pedro Henrique Ferronato - Rm554757
+* Lorenzzo Dias - Rm558305
+* Miguel Marques - Rm555426
+* Gabriel Martins - Rm556883
+* Athos Rodrigues - Rm555515
 
 ---
 
 ## Observação
 
-Este projeto possui caráter acadêmico e foi desenvolvido para demonstração prática de técnicas de Visão Computacional aplicadas à logística inteligente.
+Link do vídeo - https://drive.google.com/file/d/1khoEekxJeDBErNbC6aXY994etFQYp2Zj/view?usp=drive_link
